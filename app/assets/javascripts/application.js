@@ -10,5 +10,10 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require rails-ujs
+//= require jquery/jquery
+//= require bootstrap/js/bootstrap.bundle
+//= require jquery-easing/jquery.easing
+//= require chart.js/Chart
+//= require datatables/jquery.dataTables
+//= require datatables/dataTables.bootstrap4
 //= require_tree .
